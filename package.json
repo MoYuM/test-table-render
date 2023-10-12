@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "author": "wb-hbc831417 <wb-hbc831417@alibaba-inc.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "antd": "^4.23.6",
+    "moment": "^2.29.4",
+    "table-render": "^2.1.2",
+    "umi": "^4.0.83"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.33",
+    "@types/react-dom": "^18.0.11",
+    "typescript": "^5.0.3"
+  }
+}
